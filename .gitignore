@@ -5,3 +5,4 @@ a.out
 !expected_output.vcd
 .venv/
 __pycache__/
+*.xdc
