@@ -1,0 +1,7 @@
+*.vvp
+a.out
+*.fst
+*.vcd
+!expected_output.vcd
+.venv/
+__pycache__/
